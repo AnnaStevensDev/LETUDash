@@ -1,0 +1,11 @@
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\bin\Debug\LETUDashProto.exe.config
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\bin\Debug\LETUDashProto.exe
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\bin\Debug\LETUDashProto.pdb
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\obj\Debug\LETUDashProto.csproj.AssemblyReference.cache
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\obj\Debug\LETUDashProto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\obj\Debug\LETUDashProto.Properties.Resources.resources
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\obj\Debug\LETUDashProto.csproj.GenerateResource.cache
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\obj\Debug\LETUDashProto.csproj.CoreCompileInputs.cache
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\obj\Debug\LETUDashProto.exe
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\obj\Debug\LETUDashProto.pdb
+C:\Users\Mirella\Dropbox\Documents\Joseph\SP2023 LETU\Software Engineering\LETUDashProto\LETUDashProto\obj\Debug\LETUDashProto.letuDashPrototype.resources
